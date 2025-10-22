@@ -10,5 +10,7 @@
 # import numPy
 # import matplotlib
 # import mySQL, import mySQLclient
-# import NLTK
 
+# import NLTK, nltk.download()
+
+#
