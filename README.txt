@@ -3,6 +3,7 @@
 ## Required Applications ##
 # Notepad++ '''https://notepad-plus-plus.org/downloads/'''
 # Python '''https://www.python.org/downloads/'''
+# Visual Studio '''https://visualstudio.microsoft.com/'''
 
 ## Optional ##
 # C++ Build Tools '''https://visualstudio.microsoft.com/visual-cpp-build-tools/'''
