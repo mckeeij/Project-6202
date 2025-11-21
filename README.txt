@@ -13,6 +13,5 @@
 # import numPy
 # import matplotlib
 # import mySQL, import mySQLclient
-# import NLTK, nltk.download()
 
-#
+Send me an email if you read this!
