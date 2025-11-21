@@ -1,0 +1,14 @@
+
+
+Yann Le Cunn - Self Supervised Learning + World Models (mostly theory) https://www.youtube.com/watch?v=yUmDRxV0krg&t=3s
+
+
+3Blue1Brown Deep Learning Playlist
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Ch.1 But what is a Neural Net?   https://www.youtube.com/watch?v=aircAruvnKk&t=14s
+Ch.2 Gradient Descent   https://www.youtube.com/watch?v=IHZwWFHWa-w&t=1s
+Ch.3 Backpropogation   https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
+Ch.5 Transformers   https://www.youtube.com/watch?v=wjZofJX0v4M
+Ch.6 Attention in Transformers   https://www.youtube.com/watch?v=eMlx5fFNoYc&t=2s
