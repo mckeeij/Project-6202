@@ -1,4 +1,4 @@
-
+Andrej Kaparthy - Let's Build GPT: From Scratch, In Code https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s 
 
 Yann Le Cunn - Self Supervised Learning + World Models (mostly theory) https://www.youtube.com/watch?v=yUmDRxV0krg&t=3s
 
