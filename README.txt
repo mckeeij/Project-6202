@@ -17,6 +17,8 @@ import mySQL, import mySQLclient
 
 ## TO DO LIST ##
 
+'''Don't forget to raise errors on fail! Tracebacks are your friend! Mo' modules, mo' prollems, as my pappy said'''
+
 langprocessor.py/texprocessor.py
   Local registry dictionary check
             into
