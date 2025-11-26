@@ -8,11 +8,13 @@ Project-6202
 ## Optional ##
  C++ Build Tools '''https://visualstudio.microsoft.com/visual-cpp-build-tools/'''
  TensorFlow '''https://www.tensorflow.org/'''
+ TensorFlow How-To '''https://www.tensorflow.org/guide/basics'''
 
 ## Running list of dependencies ##
 import numPy
 import matplotlib
 import mySQL, import mySQLclient
+import tensorflow
 
 
 ## TO DO LIST ##
