@@ -1,14 +1,16 @@
-Andrej Kaparthy - Let's Build GPT: From Scratch, In Code https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1s 
+Andrej Kaparthy - Let's Build GPT: From Scratch, In Code  https://www.youtube.com/watch?v=kCc8FmEb1nY 
 
-Yann Le Cunn - Self Supervised Learning + World Models (mostly theory) https://www.youtube.com/watch?v=yUmDRxV0krg&t=3s
+Yann Le Cunn - Self Supervised Learning + World Models (mostly theory)  https://www.youtube.com/watch?v=yUmDRxV0krg
+
+Welch Labs - What the Books Get Wrong About AI  https://www.youtube.com/watch?v=z64a7USuGX0
 
 
 3Blue1Brown Deep Learning Playlist
 https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
-Ch.1 But what is a Neural Net?   https://www.youtube.com/watch?v=aircAruvnKk&t=14s
-Ch.2 Gradient Descent   https://www.youtube.com/watch?v=IHZwWFHWa-w&t=1s
+Ch.1 But what is a Neural Net?   https://www.youtube.com/watch?v=aircAruvnKk
+Ch.2 Gradient Descent   https://www.youtube.com/watch?v=IHZwWFHWa-w
 Ch.3 Backpropogation   https://www.youtube.com/watch?v=Ilg3gGewQ5U
 
 Ch.5 Transformers   https://www.youtube.com/watch?v=wjZofJX0v4M
-Ch.6 Attention in Transformers   https://www.youtube.com/watch?v=eMlx5fFNoYc&t=2s
+Ch.6 Attention in Transformers   https://www.youtube.com/watch?v=eMlx5fFNoYc
