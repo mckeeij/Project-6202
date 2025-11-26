@@ -9,12 +9,17 @@ Project-6202
  C++ Build Tools '''https://visualstudio.microsoft.com/visual-cpp-build-tools/'''
  TensorFlow '''https://www.tensorflow.org/'''
  TensorFlow How-To '''https://www.tensorflow.org/guide/basics'''
+ Pillow (Image Processing/High Dimension Analysis) '''https://pypi.org/project/pillow/'''
+ Flask (Web/Browser Interface) '''https://flask.palletsprojects.com/en/stable/'''
+ Flask Tutorial '''https://flask.palletsprojects.com/en/stable/tutorial/'''
 
 ## Running list of dependencies ##
 import numPy
 import matplotlib
 import mySQL, import mySQLclient
-import tensorflow
+import TensorFlow
+import Pillow
+import Flask
 
 
 ## TO DO LIST ##
