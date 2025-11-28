@@ -20,6 +20,7 @@ import mySQL, import mySQLclient
 import TensorFlow
 import Pillow
 import Flask
+import sqlite3
 
 
 ## TO DO LIST ##
