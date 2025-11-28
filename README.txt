@@ -12,6 +12,8 @@ Project-6202
  Pillow (Image Processing/High Dimension Analysis) '''https://pypi.org/project/pillow/'''
  Flask (Web/Browser Interface) '''https://flask.palletsprojects.com/en/stable/'''
  Flask Tutorial '''https://flask.palletsprojects.com/en/stable/tutorial/'''
+ Structured Query Language (SQL) '''https://www.sqlite.org/'''
+ SQLite3 Documentation '''https://docs.python.org/3/library/sqlite3.html#module-sqlite3'''
 
 ## Running list of dependencies ##
 import numPy
