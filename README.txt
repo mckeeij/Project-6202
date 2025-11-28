@@ -5,20 +5,23 @@ Project-6202
  Python '''https://www.python.org/downloads/'''
  Visual Studio '''https://visualstudio.microsoft.com/'''
 
-## Optional ##
+## Optional + Dependency References ##
  C++ Build Tools '''https://visualstudio.microsoft.com/visual-cpp-build-tools/'''
+ NumPy '''https://numpy.org/'''
+ NumPy Official Documentation '''https://numpy.org/doc/stable/'''
+ Matplotlib '''https://matplotlib.org/'''
+ Matplotlib Tutorials '''https://matplotlib.org/stable/tutorials/index'''
  TensorFlow '''https://www.tensorflow.org/'''
  TensorFlow How-To '''https://www.tensorflow.org/guide/basics'''
  Pillow (Image Processing/High Dimension Analysis) '''https://pypi.org/project/pillow/'''
  Flask (Web/Browser Interface) '''https://flask.palletsprojects.com/en/stable/'''
  Flask Tutorial '''https://flask.palletsprojects.com/en/stable/tutorial/'''
- Structured Query Language (SQL) '''https://www.sqlite.org/'''
- SQLite3 Documentation '''https://docs.python.org/3/library/sqlite3.html#module-sqlite3'''
+ Structured Query Language (SQL) Lite '''https://www.sqlite.org/'''
+ SQLite3 + Python Documentation '''https://docs.python.org/3/library/sqlite3.html#module-sqlite3'''
 
 ## Running list of dependencies ##
 import numPy
 import matplotlib
-import mySQL, import mySQLclient
 import TensorFlow
 import Pillow
 import Flask
