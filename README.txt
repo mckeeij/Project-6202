@@ -34,11 +34,19 @@ import sqlite3
 
 Codevelopment filepath congruency
 
-langprocessor.py/texprocessor.py
-  Local registry dictionary check
-            into
-  Weighted N-Gram Stemmer + Frequency Table
-'''!!!REASSESS 12-2-25, CONSIDER SENSE->DICT->N-GRAM/PATTERN->INTERPRET->PLAN!!!'''
+sense.py
+ Raw inputs
+ Text
+ EMG data Light, Electrons, Radiation, etc.
+ VR???
+
+pattern.py
+  Dict check - Do I already know this (as a unit of meaning)? 
+  Weighted + Interpolated N-Gram Stemmer + Frequency Table
+
+interpreter.py
+  Abstract Dict check - Do I already know this GROUP of meanings?
+  Weighted + Interpolated ENGRAM Stemmer?
 
 core.py
   I/O Routing
