@@ -32,7 +32,6 @@ import sqlite3
 
 '''Don't forget to raise errors on fail! Tracebacks are your friend! Mo' modules, mo' prollems, as my pappy said'''
 
-Codevelopment filepath congruency
 
 sense.py
  Raw inputs
