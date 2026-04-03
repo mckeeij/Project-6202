@@ -18,6 +18,8 @@ Project-6202
  Flask Tutorial '''https://flask.palletsprojects.com/en/stable/tutorial/'''
  Structured Query Language (SQL) Lite '''https://www.sqlite.org/'''
  SQLite3 + Python Documentation '''https://docs.python.org/3/library/sqlite3.html#module-sqlite3'''
+ PyTorch '''https://pytorch.org/'''
+ OpenCV '''https://opencv.org/'''
 
 ## Running list of dependencies ##
 import numPy
