@@ -1,7 +1,6 @@
 Project-6202
 
 ## Required Applications ##
- Notepad++ '''https://notepad-plus-plus.org/downloads/'''
  Python '''https://www.python.org/downloads/'''
  Visual Studio '''https://visualstudio.microsoft.com/'''
 
